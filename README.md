@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning about Context Free Grammars, Finite Automata, React, and more!
 - 🪴 I have unique interests in image processing, over-landing, and automation.
 
-- linkedin.com/in/owen-mastropietro
+- [linkedIn](linkedin.com/in/owen-mastropietro)
